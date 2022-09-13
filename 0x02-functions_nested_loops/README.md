@@ -1,1 +1,1 @@
-Putchar file in readme
+Print 10x
