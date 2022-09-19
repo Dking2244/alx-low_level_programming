@@ -1,4 +1,4 @@
- - Pointers, arrays and string 0. 98 Battery st.: Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+0x05. C - Pointers, arrays and string 0. 98 Battery st.: Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
 
 
